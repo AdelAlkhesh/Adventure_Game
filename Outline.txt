@@ -16,6 +16,24 @@ Starting Items:
         Looks as if it belongs to a weapon of some kind.  
 Prologue: 
     Story setting
+    It's well past midnight, and the raindrops pattering against your window rouse you from what was previously a blissful sleep. Blearly eyed and still half asleep, you turn in your bed, attempting to find a more comfortable position. That's when Your eyes notice the odd shape in the corner of your room. You can't quite make out the shape of it, but the oddity of it gnaws at you, and you sit up slightly, the haze of sleep slowly clearing away to give way to better sight. With growing anxiety, your mind begins to think of the worst case scenarios as you remember that you are home alone this weekend. 
+
+    CHOICE: You can make a choice here. 1. Go back to sleep  2. Call out to the shape
+
+    if 1: BACK TO SLEEP
+        You shake your head, smiling to yourself. You're only being paranoid. You turn over and lay your head back down, hoping to catch some more sleep before sunrise. 
+        A few minutes pass with nothing but the sound of rain against your window, and you begin to slowly relax, drifting back to sleep. However just as the warmth of sleep welcomes you back into its fold, you hear it, and it jolts you back awake and wide eyed. A scratching noise coming from the direction of your desk in the corner of the room, like a fingernail dragging slowly against the wood. 
+        Before you realize it, you're sitting up in bed, panic threatning to overwhelm you. Your wide eyes frantically search the dark room, unable to make out anything but silhuotted shapes, and noting to your silent horror, that the shape you saw earlier is no longer there. 
+        CHOICE: 1.Call out to the darkness.   2.Get up and investigate the noise 
+
+        if 1: 
+            "Who's there?" You call out, your voice filling the empty room, sounding louder than you expected in your ears. 
+            There is initially no response from the room, but a few seconds later the noise persists. You sit there frozen in fear for a minute that feels like an eternity, that is until a tapping on the window makes you jump a little in your place. You turn to face the window but are met with nothing but rain drops against the glass, and somewhere in the back of your mind, you tell yourself that you must be hearing things because what could possibly be tapping against your window when your room is three stories up? 
+            As you sit there trying to process all that is happening to you, lightning strikes outside, and for just a brief instance, your room is flooded with light. What you see sends your heart beating hard against your chest, and before you can scream out, a deafening clap of thunder fills your ears, overwhelming your senses, but one image remains fixed in your mind: The pair of slitted eyes that stared at you hungrily from across the room. 
+
+    elif 2: CALL OUT TO THE SHAPE
+
+
     Bedroom exploration
     hidden potion 
 
