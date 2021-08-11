@@ -1,0 +1,18 @@
+Start with welcome screen: 
+    -Game Explanation and introduction
+    -Brief Tutorial
+simple character creator: 
+    name, gender, starting item 
+    create inventory
+    initiate player 
+
+Prologue: 
+    Story setting
+    Bedroom exploration
+    hidden potion 
+
+Main Game Loop: 
+
+
+
+Ending 
