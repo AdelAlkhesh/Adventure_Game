@@ -5,7 +5,15 @@ simple character creator:
     name, gender, starting item 
     create inventory
     initiate player 
+Starting Items: 
+    Dusty old Book:
+        Is essentially a dictionary that helps translate the alien language 
 
+    Loden Stone: 
+        vibrates when near an object of interest or a hidden item
+
+    Oddly-Shaped Handle: 
+        Looks as if it belongs to a weapon of some kind.  
 Prologue: 
     Story setting
     Bedroom exploration
